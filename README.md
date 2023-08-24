@@ -1,6 +1,6 @@
 # authtentication
 
-!(image.jpg)[Test Image]
+![Test Image](image.jpg)
 
 A new Flutter project to test your Firebase skill.
 
