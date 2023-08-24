@@ -2,6 +2,11 @@
 
 A new Flutter project to test your firebase skill.
 
+They will use Firebase for the auth and also use it for the google signin they should 
+exempt the Twitter signin. Once the user login the next screen should have a button 
+that logs the user out
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
